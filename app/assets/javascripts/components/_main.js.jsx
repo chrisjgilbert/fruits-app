@@ -1,7 +1,8 @@
 const Main = (props) => {
-  return(
+  return (
     <div>
       <h1>Fruits are great!</h1>
+      <Body />
     </div>
-  )
-}
+  );
+};
